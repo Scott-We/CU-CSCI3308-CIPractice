@@ -9,5 +9,7 @@ Univerity of Colorado
 CSCI 3308  
 Summer 2014
 
+Lab completed by Scott Weygandt
+
 ### Requirements
 sudo apt-get install check
